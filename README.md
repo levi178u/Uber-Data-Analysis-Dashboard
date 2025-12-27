@@ -76,11 +76,7 @@ By implementing these recommendations, Uber can enhance its operational efficien
 3. Review the dashboard (`Dashboard.png`) to gain insights from the visualized data.
 4. Refer to the recommendations document (`Uber_Rides_Data_Analysis_Documentation_and_Recommendations.docx`) for detailed documentation and suggestions for improvement.
 
-#### Collaborators
-- Priya Singh
-- Anshuman Panda
 
-Feel free to reach out to any of the collaborators for questions or further information regarding the project.
 
 #### Steps for Cloning the Project
 1. **Clone the Repository**:
@@ -99,7 +95,9 @@ Feel free to reach out to any of the collaborators for questions or further info
    ```
    jupyter notebook Uber_Rides_Data_Analysis.ipynb
    ```
-
+#### Collaborators
+- Priya Singh
+- Anshuman Panda
 
 
 ## Sample of Dashboard
